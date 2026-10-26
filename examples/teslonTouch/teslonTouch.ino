@@ -1,3 +1,5 @@
+// A Teslon example (May 2022), modelled on the OttoDIY library's examples (https://github.com/OttoDIY/OttoDIYLib), GPL-3.0.
+// My own parts: the buzzer and sensor pins, the RGB LED and the touch sensor.
 #include <teslon.h>
 teslon robot;
 

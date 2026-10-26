@@ -1,3 +1,5 @@
+// From the OttoDIY library by Otto DIY and Camilo Parra Palacio (https://github.com/OttoDIY/OttoDIYLib),
+// GPL-3.0. Changed for Teslon in May 2022: renamed from Otto, with the LED matrix, mouth and gesture code taken out.
 #ifndef teslon_h
 #define teslon_h
 

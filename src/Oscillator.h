@@ -1,4 +1,11 @@
-
+//--------------------------------------------------------------
+//-- Oscillator.pde
+//-- Generate sinusoidal oscillations in the servos
+//--------------------------------------------------------------
+//-- (c) Juan Gonzalez-Gomez (Obijuan), Dec 2011
+//-- GPL license
+//--------------------------------------------------------------
+//-- From the OttoDIY library (https://github.com/OttoDIY/OttoDIYLib), GPL-3.0.
 #ifndef Oscillator_h
 #define Oscillator_h
 
